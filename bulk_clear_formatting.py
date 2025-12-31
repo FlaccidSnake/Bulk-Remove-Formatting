@@ -4,7 +4,6 @@
 #
 # Original author: Felix Esch
 # Updated for Anki 25.02.5 with UI by FlaccidSnake using Claude AI
-# VCS+issues: https://github.com/Araeos/ankiplugins
 # Licence: GNU General Public Licence (GNU GPL), version 3
 
 from typing import List, Optional, Sequence, cast
